@@ -1,0 +1,10 @@
+Judging Metrics(With Trasfer Learning)  ::--  Classification Report
+
+precision    recall  f1-score   support
+
+    NEGATIVE       0.53      0.54      0.53       100
+    POSITIVE       0.53      0.52      0.53       100
+
+    accuracy                           0.53       200
+   macro avg       0.53      0.53      0.53       200
+weighted avg       0.53      0.53      0.53       200
