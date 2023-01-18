@@ -1,4 +1,4 @@
-Judging Metrices(Transfer Learning ) ::-- Classification Report
+Judging Metrices(Without Transfer Learning ) ::-- Classification Report
 
 Classification Report:
 ------------------------------
